@@ -3,7 +3,6 @@ import { PageLinks,SocialLinks } from '../data';
 const Navbar = () => {
   return (
 <nav className="navbar">
-<FontAwesomeIcon icon={faTwitter} />
       <div className="nav-center">
         <div className="nav-header">
           <img src={logo} className="nav-logo" alt="backroads" />
